@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "7e2a0e3d-90c1-4d73-913f-38542b851b33": {
+      "ProjectGuid": "7e2a0e3d-90c1-4d73-913f-38542b851b33",
+      "DisplayName": "AvaloniaApplication1",
+      "ColorIndex": 0
+    },
+    "95fd70bc-be7a-494d-99b1-00080f3f6993": {
+      "ProjectGuid": "95fd70bc-be7a-494d-99b1-00080f3f6993",
+      "DisplayName": "RomanNumbersUnitTest",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
